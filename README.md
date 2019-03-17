@@ -9,3 +9,6 @@ pixels comes from the robot turns left or right. If the whole image is black the
 ### A Picture of my lil' Robot. 
 ![IMG_4212](https://user-images.githubusercontent.com/35508425/54498170-218c9b00-48c9-11e9-8b97-3601f030e3cd.JPG)
 
+
+![IMG_4212](https://user-images.githubusercontent.com/35508425/54498175-3cf7a600-48c9-11e9-98c1-bf3866fa994e.JPG)
+
